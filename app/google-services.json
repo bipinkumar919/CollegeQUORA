@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "115193062411",
+    "firebase_url": "https://collegeq-ed4b2.firebaseio.com",
+    "project_id": "collegeq-ed4b2",
+    "storage_bucket": "collegeq-ed4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115193062411:android:098269ccfc23b665",
+        "android_client_info": {
+          "package_name": "com.example.bipin.collegequora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115193062411-b2ne6hhlmttfge7opv1bda1n80nmfg8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bipin.collegequora",
+            "certificate_hash": "1dd694735b734d6c03ffc3f8d9213f6eb828fa1a"
+          }
+        },
+        {
+          "client_id": "115193062411-6tct56o2jh0p9e58btli95kf5u20mb13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bipin.collegequora",
+            "certificate_hash": "d323e8391bcf070cd433dd80a68f1802eac313ef"
+          }
+        },
+        {
+          "client_id": "115193062411-03ar0j9f3ph6g1k4c6kgsu9fctc97u68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZG1SZuvbScTx7TjYHYuQbSGeqhCHfco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115193062411-03ar0j9f3ph6g1k4c6kgsu9fctc97u68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
